@@ -1,0 +1,31 @@
+html {
+    background-color: #19181f;
+
+}
+
+header {
+    color: #222129;
+    background-color: #d3bb91;
+}
+
+body {
+    margin: 20;
+    color: #d3bb91;
+    background-color: #222129;
+}
+
+h1 {
+    font-size: 30;
+    margin-left: 20;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-top: 10;
+    padding-bottom: 10;
+    color: #222129;
+  }
+
+P {
+    margin: 20;
+    font-size: 20;
+    color: #d3bb91;
+  }
